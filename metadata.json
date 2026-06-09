@@ -1,0 +1,8 @@
+{
+  "name": "Focus Vault",
+  "description": "An interactive Android anti-addiction application simulator and complete Kotlin/Material 3 codebase viewer featuring Accessibility Services, Device Admin, and Room Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
